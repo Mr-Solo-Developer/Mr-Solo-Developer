@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[Amazon]**
 - 🌱 I’m currently learning **JavaScript, React, etc.**
-- 📫 How to reach me: **[alibinkhan1@gmail.com]**
+- 📫 How to reach me: **[zaidbinasif468@gmail.com]**
 - ⚡ Fun fact: **I love coding!**
 
 ## 🛠️ Languages and Tools:
